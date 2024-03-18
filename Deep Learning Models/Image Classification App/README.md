@@ -50,5 +50,3 @@ This application allows you to classify images using state-of-the-art deep learn
 ## Example
 
 Suppose you upload an image of a dog. If you select the VGG16 model, the app might predict that the image contains a "golden retriever" with a confidence score of 0.8 (80%). Additionally, it may suggest other possible labels and their confidence scores.
-
-Enjoy classifying images with the Image Classification App! 🎉
