@@ -20,6 +20,24 @@ This application allows you to generate images from text prompts using cutting-e
 4. Run the Streamlit app using the command: `streamlit run main.py`. 🏃
 5. Access the app in your web browser at `http://localhost:8501`. 🌐
 
+   
+### Docker containerization
+
+1. **Build Docker Image**:
+   - Open your terminal and navigate to the project directory.
+   - Run the following command to build the Docker image:
+     ```
+     docker build -t text-to-image-app:latest .
+     ```
+   - This command will build a Docker image named `text-to-image-app` with the latest tag. 🐳
+
+2. **Run Docker Container**:
+   - Once the Docker image is built successfully, you can run a Docker container using the following command:
+     ```
+     docker run -p 8501:8501 text-to-image-app:latest
+     ```
+   - This command will start a Docker container based on the `text-to-image-app` image and map port 8501 on your local machine to port 8501 in the container. 🚢
+
 ### Docker containerization
 
 1. Build the Docker image by running: `docker build -t text-to-image-app:latest .`. 🐳
