@@ -38,11 +38,6 @@ This application allows you to generate images from text prompts using cutting-e
      ```
    - This command will start a Docker container based on the `text-to-image-app` image and map port 8501 on your local machine to port 8501 in the container. 🚢
 
-### Docker containerization
-
-1. Build the Docker image by running: `docker build -t text-to-image-app:latest .`. 🐳
-2. Run the Docker container with the command: `docker run -p 8501:8501 text-to-image-app:latest`. 🚢
-
 ## Example
 
 Suppose you enter the text prompt: "A serene sunset over the ocean with palm trees swaying gently in the breeze."
