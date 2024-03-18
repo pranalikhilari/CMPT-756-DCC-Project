@@ -43,5 +43,3 @@ This application allows you to generate images from text prompts using cutting-e
 Suppose you enter the text prompt: "A serene sunset over the ocean with palm trees swaying gently in the breeze."
 
 The app will generate an image that captures this scene, complete with vibrant colors and realistic details. You can then download or share the generated image to bring your imagination to life! 🌅
-
-Enjoy creating stunning images from your text prompts with the Text To Image Generator App! ✨
