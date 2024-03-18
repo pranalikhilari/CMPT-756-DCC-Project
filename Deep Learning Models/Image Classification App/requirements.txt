@@ -1,0 +1,8 @@
+numpy
+opencv_contrib_python
+tensorflow
+pandas
+streamlit
+Pillow
+# h5pyvirtualenv 
+# venv
