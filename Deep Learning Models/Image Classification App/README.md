@@ -16,7 +16,7 @@ This application allows you to classify images using state-of-the-art deep learn
 1. Clone this repository to your local machine. 🖥️
 2. Navigate to the project directory in your terminal.
 3. Install the required dependencies by running: `pip install -r requirements.txt`. 🛠️
-4. Run the Streamlit app using the command: `streamlit run main.py`. 🏃
+4. Run the Streamlit app using the command: `streamlit run frontend.py`. 🏃
 5. Access the app in your web browser at `http://localhost:8501`. 🌐
 
 ### Docker containerization
