@@ -16,8 +16,9 @@ This application allows you to generate images from text prompts using cutting-e
 
 1. Clone this repository to your local machine.
 2. Navigate to the project directory in your terminal.
-3. Run the Streamlit app using the command: `streamlit run main.py`.
-4. Access the app in your web browser at `http://localhost:8501`.
+3. Install dependencies by running: `pip install -r requirements.txt`.
+4. Run the Streamlit app using the command: `streamlit run main.py`.
+5. Access the app in your web browser at `http://localhost:8501`.
 
 ### Docker containerization
 
