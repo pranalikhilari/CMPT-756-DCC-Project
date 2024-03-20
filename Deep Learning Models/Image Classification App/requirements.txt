@@ -4,5 +4,3 @@ tensorflow
 pandas
 streamlit
 Pillow
-# h5pyvirtualenv 
-# venv
